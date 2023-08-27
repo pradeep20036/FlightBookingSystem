@@ -262,6 +262,9 @@ def remove_booking(t_id):
 def ticket_canceled():
     print("\nYour ticket has canceled successfully...")
 
+def upi_payment():
+    print("payment code need to be added here")
+    print("payment is successfully using UPI")
 
 # -------------------------------------------------------------------------------------------
 
